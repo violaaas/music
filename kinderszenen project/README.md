@@ -7,9 +7,9 @@ Once complete, the videos and audio are combined and postprocessed.
 
 Here are a few examples of this type of video, produced by other groups:
 
-[Mozart Marriage of Figaro](https://youtu.be/9Bacj8z6SRU)
-[Toronoto Symphony](https://youtu.be/5rzZ2F18MwI)
-[Calgary Philharmonic](https://youtu.be/ZXeA2--_4eE)
+* [Mozart Marriage of Figaro](https://youtu.be/9Bacj8z6SRU)
+* [Toronoto Symphony](https://youtu.be/5rzZ2F18MwI)
+* [Calgary Philharmonic](https://youtu.be/ZXeA2--_4eE)
 
 Click on the links below or in the directory listing to navigate to
 one of the following directories:
@@ -17,8 +17,10 @@ one of the following directories:
 [Kinderszenen No. 1](https://github.com/violaas/music/Kinderszenen_No1)
 Arrangement for 2 violas
 
+
 [Kinderszenen No. 7](https://github.com/violaas/music/Kinderszenen_No7)
 Arrangement for 4 violas
+
 
 [Kinderszenen No. 13](https://github.com/violaas/music/Kinderszenen_No13)
 Arrangement for 3 violas
