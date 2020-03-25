@@ -29,7 +29,7 @@ Arrangement for 3 violas
 
 ### Lighting:
 
-The best quality light source is natural light because it's bright and full spectrum which helps render colors better and allows your camera sensor to use a lower sensitivity when capturing you r video. Since natural light might not always be available, use as bright a light you feel comfortable with and place it behind the camera facing you.
+The best quality light source is natural light because it's bright and full spectrum which helps render colors better and allows your camera sensor to use a lower sensitivity when capturing your video. Since natural light might not always be available, use as bright a light you feel comfortable with and place it behind the camera facing you.
 
 ### Framing: 
 
