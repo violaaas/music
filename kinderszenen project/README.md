@@ -10,6 +10,7 @@ Here are a few examples of this type of video, produced by other groups:
 * [Mozart Marriage of Figaro](https://youtu.be/9Bacj8z6SRU)
 * [Toronoto Symphony](https://youtu.be/5rzZ2F18MwI)
 * [Calgary Philharmonic](https://youtu.be/ZXeA2--_4eE)
+* [Cello Octet](https://youtu.be/ZzLkiF-OQ-4)
 
 Click on the links below or in the directory listing to navigate to
 one of the following directories:
@@ -43,7 +44,7 @@ Clothes. Feel free to wear whatever [works for you](https://www.facebook.com/pho
 
 Recording in a quiet room with fewer echos is preferred, but not an anechoic chamber. I can always edit in a little resonance if the sound is too dry. Test out your recording device to make sure that your loudest notes are not clipping (too loud for the mic to register which causes distortion and crackles). If the sound is clipping, move the device further away from your instrument when recording.
 
-Example of clipping: https://youtu.be/9uEtworGLrU?t=124
+[Example of clipping](https://youtu.be/9uEtworGLrU?t=124)
 
 If you have a separate mic, it's usually more open sounding if positioned at a height higher than your instrument and 6 more more feet away.
 
