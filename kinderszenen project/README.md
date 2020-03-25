@@ -29,13 +29,11 @@ Arrangement for 3 violas
 
 ### Lighting:
 
-The best quality light source is natural light because it's bright and full spectrum which helps render colors better and allows your camera sensor to use a lower sensitivity when capturing your video.
-Since natural light might not always be available, use as bright a light you feel comfortable with and place it behind the camera facing you.
+The best quality light source is natural light because it's bright and full spectrum which helps render colors better and allows your camera sensor to use a lower sensitivity when capturing you r video. Since natural light might not always be available, use as bright a light you feel comfortable with and place it behind the camera facing you.
 
 ### Framing: 
 
-I'll leave it up to you to be creative with this, but since I'll be cropping/resizing your videos, it would be nice to have at least your face and your viola in the frame most of the time.
-It may help to do a couple test runs to determine whether it's the angle you want.
+I'll leave it up to you to be creative with this, but since I'll be cropping/resizing your videos, it would be nice to have at least your face and your viola in the frame most of the time. It may help to do a couple test runs to determine whether it's the angle you want.
 
 ### What to Wear:
 
@@ -43,14 +41,15 @@ Clothes. Feel free to wear whatever [works for you](https://www.facebook.com/pho
 
 ### Sound Recording:
 
-Recording in a quiet room with fewer echos is preferred, but not an anechoic chamber. I can always edit in a little resonance if the sound is too dry.
-Test out your recording device to make sure that your loudest notes are not clipping (too loud for the mic to register which causes distortion and crackles). If the sound is clipping, move the device further away from your instrument when recording.
+Recording in a quiet room with fewer echos is preferred, but not an anechoic chamber. I can always edit in a little resonance if the sound is too dry. Test out your recording device to make sure that your loudest notes are not clipping (too loud for the mic to register which causes distortion and crackles). If the sound is clipping, move the device further away from your instrument when recording.
+
 Example of clipping: https://youtu.be/9uEtworGLrU?t=124
+
 If you have a separate mic, it's usually more open sounding if positioned at a height higher than your instrument and 6 more more feet away.
 
 ### Following the Click Track
 
-Try to land on the notes precisely when the moving bar contacts them so that we sound together in the final production.
-Familiarize yourself with the change in tempo at the ritenutos and fermatas which will be indicated in the notation.
-Grace notes should come before the beat.
-If you're not able to view it on a monitor, play it back on a device and use one earphone to listen to it to ensure the sound does not get picked up by your recording microphone.
+* Familiarize yourself with the change in tempo at the ritenutos and fermatas which will be indicated in the notation.
+* Grace notes should come before the beat.
+* Try to land on the notes precisely when the moving bar contacts them so that we sound together in the final production.
+* If you're not able to view it on a monitor, play it back on a device and use one earphone to listen to it to ensure the sound does not get picked up by your recording microphone.
