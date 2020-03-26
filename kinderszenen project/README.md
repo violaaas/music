@@ -42,7 +42,7 @@ Clothes. Feel free to wear whatever [works for you](https://www.facebook.com/pho
 
 ### Sound Recording:
 
-Recording in a quiet room with fewer echos is preferred, but not an anechoic chamber. I can always edit in a little resonance if the sound is too dry. Test out your recording device to make sure that your loudest notes are not clipping (too loud for the mic to register which causes distortion and crackles). If the sound is clipping, move the device further away from your instrument when recording.
+Recording in a quiet room (if possible in your environment) with fewer echos is preferred, but not an anechoic chamber. I can always edit in a little resonance if the sound is too dry. Test out your recording device to make sure that your loudest notes are not clipping (too loud for the mic to register which causes distortion and crackles). If the sound is clipping, move the device further away from your instrument when recording.
 
 [Example of clipping](https://youtu.be/9uEtworGLrU?t=124)
 
