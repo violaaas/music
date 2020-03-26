@@ -34,7 +34,7 @@ The best quality light source is natural light because it's bright and full spec
 
 ### Framing: 
 
-I'll leave it up to you to be creative with this, but since I'll be cropping/resizing your videos, it would be nice to have at least your face and your viola in the frame most of the time. It may help to do a couple test runs to determine whether it's the angle you want.
+I'll leave it up to you to be creative with this, but since I'll be cropping/resizing your videos, it would be nice to have at least your face and your viola in the frame most of the time. It may help to do a couple test runs to determine whether it's the angle you want. Other tips in this [NYTimes article](https://www.nytimes.com/2020/03/25/realestate/coronavirus-webcam-appearance.html).
 
 ### What to Wear:
 
@@ -48,9 +48,15 @@ Recording in a quiet room (if possible in your environment) with fewer echos is 
 
 If you have a separate mic, it's usually more open sounding if positioned at a height higher than your instrument and 6 more more feet away.
 
+Your recording device may adjust its sensitivity automatically (increased sensitivity when it gets quiet and decreased sensitivity when it gets loud), so producing a piano dynamic may be difficult. Don't worry about this too much, as I may adjust the individual sound levels when I assemble the final recording.
+
 ### Following the Click Track
 
 * Familiarize yourself with the change in tempo at the ritenutos and fermatas which will be indicated in the notation.
 * Grace notes should come before the beat.
 * Try to land on the notes precisely when the moving bar contacts them so that we sound together in the final production.
 * If you're not able to view it on a monitor, play it back on a device and use one earphone to listen to it to ensure the sound does not get picked up by your recording microphone.
+
+# Sharing Your Individual Videos
+
+Once you've created your video, upload it to Dropbox, Google Drive, or other sharing site and email me the link. For the best quality, download the file from your device and upload that file to a file sharing service rather than a video sharing one. Video sharing sites often re-compress your video which may reduce the quality.
