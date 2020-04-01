@@ -11,6 +11,9 @@ Here are a few examples of this type of video, produced by other groups:
 * [Toronoto Symphony](https://youtu.be/5rzZ2F18MwI)
 * [Calgary Philharmonic](https://youtu.be/ZXeA2--_4eE)
 * [Cello Octet](https://youtu.be/ZzLkiF-OQ-4)
+* [Nimrod Variations](https://www.facebook.com/donovan.seidle/videos/10103852773248345/UzpfSTExMTIzMzE3NzE2ODQwNjoxMTc5MzM5NzY0OTgzMjY/?__tn__=kC-R&eid=ARDCfsUoMUKV-trt29l8yPHQrehTKCqWfwCdmT9u1YmMz2AmQj1ScC0fDDDojTkyY9pF-EcD80srTw0Y&hc_ref=ARRMZGK38IU7jTQ9W_zozxUmzU6J9HQJGIeMvhhPuEY2cWRE0EyhGibB3n-8QFs2PEQ&fref=nf&__xts__[0]=68.ARDja-ns_-Yt1_EXaQKfu-Nkye8cwyeipqtwkRgK57C1msiygDHnKOPTX_LmV5b3Qvxzpz2BR_8xu2Rl0XgOIa1p44ISTPogxf3YEyZZ0zZYov5xSNwDiAUrVdxHSuUdRZ9tLUUkGLtoRba1BZMDmIl2zIVWZwSHtNFUqGO2c8GMEcrAEt4V89VMG8dKRI3MrOshZydliWL5pAq4GEccGawPlulvr0CWbcVvyYeL-NmTT-8KA-Pohr2Hd_QiUsGCTwzFAZ7hUcLecZfchwl4ndqLYYqvFm4QOBw6nAiVoWyqMsttypGZLCeihKNxN8cfA-_53SCrl-bRatzkQiZqUwLRQLobyiJ_yMY)
+]
+* [Making of Nimrod Variations](https://youtu.be/URZ8cWAspAw)
 
 Click on the links below or in the directory listing to navigate to
 one of the following directories:
@@ -49,6 +52,8 @@ Recording in a quiet room (if possible in your environment) with fewer echos is 
 If you have a separate mic, it's usually more open sounding if positioned at a height higher than your instrument and 6 more more feet away.
 
 Your recording device may adjust its sensitivity automatically (increased sensitivity when it gets quiet and decreased sensitivity when it gets loud), so producing a piano dynamic may be difficult. Don't worry about this too much, as I may adjust the individual sound levels when I assemble the final recording.
+
+Other [tips from r/RedditSymphonyOrchestra](https://docs.google.com/document/d/1iQFyERQT1Sev_YXk_OI9QwXBlZain8by35bmjDvKw6w/edit).
 
 ### Following the Click Track
 
