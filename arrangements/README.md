@@ -1,3 +1,9 @@
+**Note: All the under the [Creative Commons Attribution-NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/).
+You are free to use this for non-commercial use, and must attribute the work to the author.**
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
 # What's in Here
 
 These directories contain music notation and video files for performers to use
@@ -11,12 +17,10 @@ Here are a few examples of this type of video, produced by other groups:
 * [Toronoto Symphony](https://youtu.be/5rzZ2F18MwI)
 * [Calgary Philharmonic](https://youtu.be/ZXeA2--_4eE)
 * [Cello Octet](https://youtu.be/ZzLkiF-OQ-4)
-* [Nimrod Variations](https://www.facebook.com/donovan.seidle/videos/10103852773248345/UzpfSTExMTIzMzE3NzE2ODQwNjoxMTc5MzM5NzY0OTgzMjY/?__tn__=kC-R&eid=ARDCfsUoMUKV-trt29l8yPHQrehTKCqWfwCdmT9u1YmMz2AmQj1ScC0fDDDojTkyY9pF-EcD80srTw0Y&hc_ref=ARRMZGK38IU7jTQ9W_zozxUmzU6J9HQJGIeMvhhPuEY2cWRE0EyhGibB3n-8QFs2PEQ&fref=nf&__xts__[0]=68.ARDja-ns_-Yt1_EXaQKfu-Nkye8cwyeipqtwkRgK57C1msiygDHnKOPTX_LmV5b3Qvxzpz2BR_8xu2Rl0XgOIa1p44ISTPogxf3YEyZZ0zZYov5xSNwDiAUrVdxHSuUdRZ9tLUUkGLtoRba1BZMDmIl2zIVWZwSHtNFUqGO2c8GMEcrAEt4V89VMG8dKRI3MrOshZydliWL5pAq4GEccGawPlulvr0CWbcVvyYeL-NmTT-8KA-Pohr2Hd_QiUsGCTwzFAZ7hUcLecZfchwl4ndqLYYqvFm4QOBw6nAiVoWyqMsttypGZLCeihKNxN8cfA-_53SCrl-bRatzkQiZqUwLRQLobyiJ_yMY)
-]
+* [Nimrod Variations (facebook.com)](https://www.facebook.com/donovan.seidle/videos/10103852773248345/UzpfSTExMTIzMzE3NzE2ODQwNjoxMTc5MzM5NzY0OTgzMjY/?__tn__=kC-R&eid=ARDCfsUoMUKV-trt29l8yPHQrehTKCqWfwCdmT9u1YmMz2AmQj1ScC0fDDDojTkyY9pF-EcD80srTw0Y&hc_ref=ARRMZGK38IU7jTQ9W_zozxUmzU6J9HQJGIeMvhhPuEY2cWRE0EyhGibB3n-8QFs2PEQ&fref=nf&__xts__[0]=68.ARDja-ns_-Yt1_EXaQKfu-Nkye8cwyeipqtwkRgK57C1msiygDHnKOPTX_LmV5b3Qvxzpz2BR_8xu2Rl0XgOIa1p44ISTPogxf3YEyZZ0zZYov5xSNwDiAUrVdxHSuUdRZ9tLUUkGLtoRba1BZMDmIl2zIVWZwSHtNFUqGO2c8GMEcrAEt4V89VMG8dKRI3MrOshZydliWL5pAq4GEccGawPlulvr0CWbcVvyYeL-NmTT-8KA-Pohr2Hd_QiUsGCTwzFAZ7hUcLecZfchwl4ndqLYYqvFm4QOBw6nAiVoWyqMsttypGZLCeihKNxN8cfA-_53SCrl-bRatzkQiZqUwLRQLobyiJ_yMY)
 * [Making of Nimrod Variations](https://youtu.be/URZ8cWAspAw)
 
-Click on the links below or in the directory listing to navigate to
-one of the following directories:
+Click on the links below or in the directory listing to navigate to one of the following directories:
 
 [Kinderszenen No. 1](https://github.com/violaaas/music/tree/master/arrangements/Kinderszenen_No1)
 Arrangement for 2 violas
@@ -44,7 +48,7 @@ For backgrounds, unchanging, plan backgrounds are a safe bet.
 
 ### What to Wear:
 
-Coordinate with your group on what works best.
+Coordinate with your group on what works best for everyone.
 
 ### Sound Recording:
 
