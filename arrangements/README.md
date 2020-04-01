@@ -18,15 +18,15 @@ Here are a few examples of this type of video, produced by other groups:
 Click on the links below or in the directory listing to navigate to
 one of the following directories:
 
-[Kinderszenen No. 1](https://github.com/violaaas/music/tree/master/kinderszenen%20project/Kinderszenen_No1)
+[Kinderszenen No. 1](https://github.com/violaaas/music/tree/master/arrangements/Kinderszenen_No1)
 Arrangement for 2 violas
 
 
-[Kinderszenen No. 7](https://github.com/violaaas/music/tree/master/kinderszenen%20project/Kinderszenen_No7)
+[Kinderszenen No. 7](https://github.com/violaaas/music/tree/master/arrangements/Kinderszenen_No7)
 Arrangement for 4 violas
 
 
-[Kinderszenen No. 13](https://github.com/violaaas/music/tree/master/kinderszenen%20project/Kinderszenen_No13)
+[Kinderszenen No. 13](https://github.com/violaaas/music/tree/master/arrangements/Kinderszenen_No13)
 Arrangement for 3 violas
 
 # Tips on Creating a Quality Recording:
@@ -66,6 +66,11 @@ This is perhaps the most difficult part to execute. There are a few approaches t
 * Make sure you and your group are clear on all the tempo decisions
 * Practice (first without doing any recording), practice, practice
 * Make sure you can simultaneously read the music, listen to the click track, and record a video. You may need multiple electronic devices to accomplish this.
+
+### Tuning:
+
+Since you cannot hear your collaborators as you perform, it is helpful to tune to the same A. You can find audio files to help you tune in the [Tuning directory](https://github.com/violaaas/music/tree/master/arrangements/Tuning)
+
 
 # Sharing Your Individual Videos
 
