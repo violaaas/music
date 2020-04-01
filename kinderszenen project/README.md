@@ -33,35 +33,40 @@ Arrangement for 3 violas
 
 ### Lighting:
 
-The best quality light source is natural light because it's bright and full spectrum which helps render colors better and allows your camera sensor to use a lower sensitivity when capturing your video. Since natural light might not always be available, use as bright a light you feel comfortable with and place it behind the camera facing you.
+The best quality light source is natural light because it's bright and full spectrum which helps render colors better. It also allows your camera's sensor to use
+a lower sensitivity which usually means less visual in the video you are capturing. Since natural light might not always be available, use as bright a light you feel comfortable with and place it behind the camera facing you. Try to avoid multiple colors from your light sources as it can produce unflattering color casts.
 
 ### Framing: 
 
-I'll leave it up to you to be creative with this, but since I'll be cropping/resizing your videos, it would be nice to have at least your face and your viola in the frame most of the time. It may help to do a couple test runs to determine whether it's the angle you want. Other tips in this [NYTimes article](https://www.nytimes.com/2020/03/25/realestate/coronavirus-webcam-appearance.html).
+Check your framing to make sure that you're including at least your face and viola are within the bounds of the video frame most of the time.
+Do a couple test runs to determine whether it's the angle you want. Other tips in this [NYTimes article](https://www.nytimes.com/2020/03/25/realestate/coronavirus-webcam-appearance.html).
+For backgrounds, unchanging, plan backgrounds are a safe bet.
 
 ### What to Wear:
 
-Clothes. Feel free to wear whatever [works for you](https://www.facebook.com/photo.php?fbid=798453839941&set=t.23252&type=3&theater).
+Coordinate with your group on what works best.
 
 ### Sound Recording:
 
-Recording in a quiet room (if possible in your environment) with fewer echos is preferred, but not an anechoic chamber. I can always edit in a little resonance if the sound is too dry. Test out your recording device to make sure that your loudest notes are not clipping (too loud for the mic to register which causes distortion and crackles). If the sound is clipping, move the device further away from your instrument when recording.
+Recording in a quiet room (if possible in your environment) with fewer echos is preferred, but not an anechoic chamber.
+Make sure to test out your recording device to make sure that your loudest notes are not clipping (too loud for the mic to register which causes distortion and crackles). If the sound is clipping, move the device further away from your instrument when recording. For more information on clipping, listen to 
+[this example of clipping](https://youtu.be/9uEtworGLrU?t=124).
 
-[Example of clipping](https://youtu.be/9uEtworGLrU?t=124)
+If you have a separate microphone, it's usually more open sounding if positioned at a height above your instrument and 6 more more feet away.
 
-If you have a separate mic, it's usually more open sounding if positioned at a height higher than your instrument and 6 more more feet away.
+Your recording device may adjust its sensitivity automatically (increased sensitivity when it gets quiet and decreased sensitivity when it gets loud), so you may need to put extra effort into producing a piano or softer dynamic.
 
-Your recording device may adjust its sensitivity automatically (increased sensitivity when it gets quiet and decreased sensitivity when it gets loud), so producing a piano dynamic may be difficult. Don't worry about this too much, as I may adjust the individual sound levels when I assemble the final recording.
-
-Other [tips from r/RedditSymphonyOrchestra](https://docs.google.com/document/d/1iQFyERQT1Sev_YXk_OI9QwXBlZain8by35bmjDvKw6w/edit).
+Other [tips from r/TheRedditSymphony](https://docs.google.com/document/d/1iQFyERQT1Sev_YXk_OI9QwXBlZain8by35bmjDvKw6w/edit).
 
 ### Following the Click Track
 
-* Familiarize yourself with the change in tempo at the ritenutos and fermatas which will be indicated in the notation.
-* Grace notes should come before the beat.
-* Try to land on the notes precisely when the moving bar contacts them so that we sound together in the final production.
-* If you're not able to view it on a monitor, play it back on a device and use one earphone to listen to it to ensure the sound does not get picked up by your recording microphone.
+This is perhaps the most difficult part to execute. There are a few approaches that other collaborative video creators have successfully used. See the
+[video on the Elgar Nimrod Variations project](https://youtu.be/URZ8cWAspAw) for a video of a few suggested approaches. A few tips:
+
+* Make sure you and your group are clear on all the tempo decisions
+* Practice (first without doing any recording), practice, practice
+* Make sure you can simultaneously read the music, listen to the click track, and record a video. You may need multiple electronic devices to accomplish this.
 
 # Sharing Your Individual Videos
 
-Once you've created your video, upload it to Dropbox, Google Drive, or other sharing site and email me the link. For the best quality, download the file from your device and upload that file to a file sharing service rather than a video sharing one. Video sharing sites often re-compress your video which may reduce the quality.
+Once you've created your video, upload it to Dropbox, Google Drive, or other sharing site and email a link to the person putting together the video. The video files can be large in size (depending on the resolution and amount of time recorded) and won't fit in an email or on GitHub. For the best quality, download the file from your device. Some methods of transfer reduce the quality of the video by compressing the data in a way that you lose detail in the audio or video. Upload your video file to a file sharing service rather than a video sharing one. Video sharing sites often re-compress your video which may reduce the quality.
