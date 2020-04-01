@@ -3,7 +3,7 @@
 
 # What's in Here
 
-These directories contain music notation and video files for performers to use
+These directories contain music notation and click track files for performers to use
 to create a virtual collaborative video (not certain whether there's a canonical term for this yet)
 in which each performer records video and audio of themselves playing an individual part.
 Once complete, the videos and audio are combined and postprocessed.
