@@ -41,7 +41,7 @@ a lower sensitivity which usually means less visual in the video you are capturi
 
 Check your framing to make sure that you're including at least your face and viola are within the bounds of the video frame most of the time.
 Do a couple test runs to determine whether it's the angle you want. Other tips in this [NYTimes article](https://www.nytimes.com/2020/03/25/realestate/coronavirus-webcam-appearance.html).
-For backgrounds, unchanging, plan backgrounds are a safe bet.
+For backgrounds, unchanging, plain backgrounds are a safe bet.
 
 ### What to Wear:
 
