@@ -8,7 +8,7 @@ A collaborative virtual performance is a collage presentation of two or more vid
 each performer (or group of performers) records an individual video of their performance part.
 These videos are synchronized and combined in a single video to form a virtual group performance which can be shared online.
 
-Placeholder: see the list of collaborative virtual performances page
+Here are a few [examples of collaborative virtual performances](PerformanceList).
 
 
 What You Need
