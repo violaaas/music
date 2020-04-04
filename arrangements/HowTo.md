@@ -41,7 +41,7 @@ Process
 - Procure the music parts and if they are not already in a format that the performers can easily print or read from a screen such as PDF.
 - Set deadlines based on communications with everyone involved.
 - Contact the musicians to communicate deadlines and get their consent to participate. If any of the musicians are children, you may need to provide an official consent form for a parent/guardian to sign.
-- Ensure there are enough participants to cover all the essential parts and otherwise find additional participants and communicate thhttps://www.facebook.com/nyphilharmonic/videos/688643071899218/e aforementioned with them.
+- Ensure there are enough participants to cover all the essential parts and otherwise find additional participants and communicate the aforementioned with them.
 - Create a recording plan with the Audio/Video Engineer. Communicate this to all the musicians. Placeholder: See what is an ideal recording plan
 
 **[Audio/Video Engineer]**
