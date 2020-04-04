@@ -8,7 +8,7 @@ A collaborative virtual performance is a collage presentation of two or more vid
 each performer (or group of performers) records an individual video of their performance part.
 These videos are synchronized and combined in a single video to form a virtual group performance which can be shared online.
 
-Here are a few [examples of collaborative virtual performances](PerformanceList).
+See these [examples of collaborative virtual performances](PerformanceList).
 
 
 What You Need
@@ -34,7 +34,7 @@ They also need an internet connection and a place to upload their recorded video
 Process
 -------
 
-## Phase I
+## Phase I - Planning and Recording
 
 **[Project Organizer]**
 - Identify the piece (should be appropriate for the group of musicians you expect to participate)
@@ -59,7 +59,7 @@ Process
 - Check your final take(s). TODO: How to check your recording
 - Upload your audio/video to a file hosting site and notify the Project Organizer.
 
-## Phase II
+## Phase II - Producing and Releasing
 
 **[Project Organizer]**
 - Once all the recordings have come in, notify the Audio/Video Engineer.
