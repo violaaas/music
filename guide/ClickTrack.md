@@ -32,36 +32,36 @@ click track which should resemble the following:
 
 ![Step 2](https://github.com/violaaas/music/blob/master/guide/screenshots/Audacity_clicktrack_step2.png)
 
-Update the "Tempo (bpm) and "Beats per bar" settings to match the piece of music being performed.
-For example, if your meter is 3/4 and metronome marking is 72, you'll want to set the "Tempo (bpm)" setting to 72 and the
-"Beats per bar" to 3.
+Update the **Tempo (bpm)** and **Beats per bar** settings to match the piece of music being performed.
+For example, if your meter is 3/4 and metronome marking is 72, you'll want to set the **Tempo (bpm)** setting to 72 and the
+**Beats per bar** to 3.
 
-Update the "Number of bars" setting to the number of bars in the piece of music being performed, and add two extra
+Update the **Number of bars** setting to the number of bars in the piece of music being performed, and add two extra
 bars to give your performance the chance to prepare.  For example, if the piece is 80 measures long, generate an 82
 measure click track. Make sure to communicate the preparation measures to the performers, either in your Recording Plan, or directly.
 
-If you want the click track to provide a different pitch for downbeats, update the "MIDI pitch of strong beat" setting
-to a number different than the "MIDI pitch of weak beat". Each number corresponds to a specific half step in a chromatic scale
+If you want the click track to provide a different pitch for downbeats, update the **MIDI pitch of strong beat** setting
+to a number different than the **MIDI pitch of weak beat**. Each number corresponds to a specific half step in a chromatic scale
 in increasing order: the higher the number, the higher the pitch.
 
-You can click the "Preview" button to listen to a short sample of the current settings before you generate the full
-click track. Click the "OK" button to generate the full click track.
+You can click the **Preview** button to listen to a short sample of the current settings before you generate the full
+click track. Click the **OK** button to generate the full click track.
 
 ### Step 3 - Review the Click Track
 
-After clicking the "OK" button, the dialog box should close and you should show a graphic representation of the audio
+After clicking the **OK** button, the dialog box should close and you should show a graphic representation of the audio
 within an "Audio Track" as follows. You can click the play button at the top to listen to the current click track.
 
 ![Step 3](https://github.com/violaaas/music/blob/master/guide/screenshots/Audacity_clicktrack_step3.png)
 
-If you discover you made a mistake in the settings you chose, you can close the click track audio file by opening the "File" menu 
-and selecting the "Close" item. When prompted as to whether you want to save changes to the project, click "No". Otherwise, 
-if you're ready to save the click track, proceed
+If you discover you made a mistake in the settings you chose, you can close the click track audio file by opening the **File** menu 
+and selecting the **Close** item. When prompted as to whether you want to save changes to the project, click **No**. Otherwise, 
+if you're ready to save the click track, proceed to the next step.
 
 ### Step 4 - Save the Click Track
 
-Select the File menu and Export menu choice. From there, select "Export as WAV" as shown below. Choose a filename and
-directory to save it to.
+Select the **File** menu and Export menu choice. From there, select **Export as WAV** as shown below. Choose a filename and
+directory to save it to and then click the **Save** button.
 
 ![Step 4](https://github.com/violaaas/music/blob/master/guide/screenshots/Audacity_clicktrack_step4.png)
 
