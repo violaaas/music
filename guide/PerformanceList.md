@@ -9,3 +9,5 @@
 * [Brahms, Symphony No. 3 Excerpts - Juilliard Cellists (instagram.com)](https://www.instagram.com/tv/B-h-W-GHmTh)
 * [Kyle Athade, Canadian Brass (instagram.com)](https://www.instagram.com/p/B-lTaONluBQ)
 * [Sibelius, Finlandia - Lahti Symphony Orchestra (youtube.com)](https://youtu.be/Sh1L-8T5hu0)
+* [Chitty Chitty Bang Bang - The Cory Band (youtube.com)](https://youtu.be/P0KiCXZ2IM0)
+* [Mahler, Symphony No. 1 - II. - New York Youth Symphony (youtube.com)](https://youtu.be/ezZosUYlvMo)
