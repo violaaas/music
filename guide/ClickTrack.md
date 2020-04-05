@@ -83,7 +83,7 @@ If the piece of music requires tempo changes such as accelerandos, ritards, or o
 Although Audacity does not include a feature that generates a click track with multiple tempos, you can generate one click track
 for each tempo in sequence by following the steps below:
 
-### Step 1- Count the Number of Beats in Each Tempo
+### Step 1 - Count the Number of Beats in Each Tempo
 
 Suppose the piece of music consists of the following tempo markings in order:
 
@@ -92,8 +92,7 @@ Suppose the piece of music consists of the following tempo markings in order:
 * "quarter note = 176" in 3/4 time for 24 measures
 
 
-
-### Generate Click Tracks for Each Tempo
+### Step 2 - Generate Click Tracks for Each Tempo
 
 Note: the quarter note pickup can be included in the two additional measures that we add to the beginning. Otherwise, you must
 manually remove three beats from the start of the click track.
