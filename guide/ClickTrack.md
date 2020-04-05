@@ -22,14 +22,14 @@ that you use and install it.
 After you open Audacity, a new audio track editor window that contains menu options at the top should appear. From the
 menu, select the **Generate** menu item and then the **Rhythm Track** sub-menu item as shown below.
 
-![Step 1](/screenshots/Audacity_clicktrack_step1.jpg)
+![Step 1](https://github.com/violaaas/music/blob/master/guide/screenshots/Audacity_clicktrack_step1.png)
 
 ## Step 2 - Configure the Click Track
 
 From your menu selection in the previous step, a new dialog window should appear which contains the parameters of your
 click track which should resemble the following:
 
-![Step 2](/screenshots/Audacity_clicktrack_step2.jpg)
+![Step 2](https://github.com/violaaas/music/blob/master/guide/screenshots/Audacity_clicktrack_step2.png)
 
 Update the "Tempo (bpm) and "Beats per bar" settings to match the piece of music being performed.
 For example, if your meter is 3/4 and metronome marking is 72, you'll want to set the "Tempo (bpm)" setting to 72 and the
@@ -51,7 +51,7 @@ click track. Click the "OK" button to generate the full click track.
 After clicking the "OK" button, the dialog box should close and you should show a graphic representation of the audio
 within an "Audio Track" as follows. You can click the play button at the top to listen to the current click track.
 
-![Step 3](/screenshots/Audacity_clicktrack_step3.jpg)
+![Step 3](https://github.com/violaaas/music/blob/master/guide/screenshots/Audacity_clicktrack_step3.png)
 
 If you discover you made a mistake in the settings you chose, you can close the click track audio file by opening the "File" menu 
 and selecting the "Close" item. When prompted as to whether you want to save changes to the project, click "No". Otherwise, 
@@ -62,7 +62,7 @@ if you're ready to save the click track, proceed
 Select the File menu and Export menu choice. From there, select "Export as WAV" as shown below. Choose a filename and
 directory to save it to.
 
-![Step 4](/screenshots/Audacity_clicktrack_step4.jpg)
+![Step 4](https://github.com/violaaas/music/blob/master/guide/screenshots/Audacity_clicktrack_step4.png)
 
 ## Step 5 - Share the Click Track
 
