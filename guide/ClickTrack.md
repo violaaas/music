@@ -75,7 +75,7 @@ upload files from your computer to a sharing service, read one of the following 
 
 ## Advanced Click Track
 
-This guide assumes that you have read the [Basic Click Track](#Basic-Click-Track) section and can generate a simple
+This guide assumes that you have read the [Basic Click Track](#basic-click-track) section and can generate a simple
 click track.
 
 If the piece of music requires tempo changes such as accelerandos, ritards, or other markings, you need to customize the click track. 
@@ -98,7 +98,7 @@ Note: the quarter note pickup can be included in the two additional measures tha
 manually remove three beats from the start of the click track.
 
 From the example above, the first segment of the click track is 34 measures long since we add two measures to allow time for
-the performers to get ready to play. Use the directions explained in the [Basic Guide: Step 2 - Configure the Click Track](#Step-2-Configure-the-Click-Track) to generate a click track with 120bpm and 4 beats per measure for 34 measures.
+the performers to get ready to play. Use the directions explained in the [Basic Guide: Step 2 - Configure the Click Track](#step-2---configure-the-click-track") to generate a click track with 120bpm and 4 beats per measure for 34 measures.
 
 Then, select the end of the recording by pressing your "End" key or using the "Skip to End" button as shown below.
 
