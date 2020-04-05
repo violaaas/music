@@ -24,7 +24,7 @@ menu, select the **Generate** menu item and then the **Rhythm Track** sub-menu i
 
 ![Step 1](https://github.com/violaaas/music/blob/master/guide/screenshots/Audacity_clicktrack_step1.png)
 
-## Step 2 - Configure the Click Track
+### Step 2 - Configure the Click Track
 
 From your menu selection in the previous step, a new dialog window should appear which contains the parameters of your
 click track which should resemble the following:
@@ -46,7 +46,7 @@ in increasing order: the higher the number, the higher the pitch.
 You can click the "Preview" button to listen to a short sample of the current settings before you generate the full
 click track. Click the "OK" button to generate the full click track.
 
-## Step 3 - Review the Click Track
+### Step 3 - Review the Click Track
 
 After clicking the "OK" button, the dialog box should close and you should show a graphic representation of the audio
 within an "Audio Track" as follows. You can click the play button at the top to listen to the current click track.
@@ -64,7 +64,7 @@ directory to save it to.
 
 ![Step 4](https://github.com/violaaas/music/blob/master/guide/screenshots/Audacity_clicktrack_step4.png)
 
-## Step 5 - Share the Click Track
+### Step 5 - Share the Click Track
 
 To share the click track, you need to make it available online. If you are not certain what service to use or how to
 upload files from your computer to a sharing service, read one of the following tutorials:
