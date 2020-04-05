@@ -26,9 +26,9 @@ What You Need
 
 **Equipment**
 
+- Everyone needs a computer with access to email and a decent internet connection to upload and download large video files. For reference, a 2.5 minute video from a recent iPhone is approximately 150MB (megabytes). For example, as a performer, to upload 150MB on a 1Mb (megabit) connection at full speed would take 21 minutes.
 - Each performer needs a device that can record audio and video, a separate device to play back the click track, and headphones/earphones to listen to the click track.
-They also need an internet connection and a place to upload their recorded videos unless the Project Organizer can provide it.
-- The Audio/Video Engineer needs a reasonably fast computer, lots of free disk space to install necessary applications and to master the video/audio, and a decent internet connection.
+- The Audio/Video Engineer needs a reasonably fast computer, lots of free disk space to install necessary applications and to master the video/audio (approximately 10 times the total size of all the performers' videos), and a decent internet connection.
 
 
 Process
@@ -46,7 +46,7 @@ Process
 
 **[Audio/Video Engineer]**
 - Work with a conductor or party responsible for setting the tempo/interpretation.
-- Create a click track represents the tempo/interpretation discussed. Placeholder: See what is a click track and how to create it.
+- Create a click track represents the tempo/interpretation discussed. TODO: See what is a click track and how to create it.
 - Check in with conductor/musician to ensure the click track is correct.
 - Make the click track available for download by everyone in the project (musicians, audio/video engineer, and project manager).
 
@@ -68,3 +68,6 @@ Process
 - Download and assemble the videos. TODO: Guide on how to with different software
 - Render the final video and upload it to a video hosting site. Notify the Project Organizer.
 - Follow any additional steps such as tagging and making it available on social media or other video hosting site. Notify the Project Organizer once completed.
+
+**[Project Organizer]**
+- Notify everyone of the completion of the project.
