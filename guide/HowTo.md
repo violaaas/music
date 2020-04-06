@@ -46,7 +46,7 @@ Process
 
 **[Audio/Video Engineer]**
 - Work with a conductor or party responsible for setting the tempo/interpretation.
-- Create a click track represents the tempo/interpretation discussed. TODO: See what is a click track and how to create it.
+- Create a click track represents the tempo/interpretation discussed. See [How to Generate a Click Track](ClickTrack) for more information.
 - Check in with conductor/musician to ensure the click track is correct.
 - Make the click track available for download by everyone in the project (musicians, audio/video engineer, and project manager).
 
