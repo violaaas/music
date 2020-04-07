@@ -4,9 +4,7 @@ A [click track](https://en.wikipedia.org/wiki/Click_track) is an audio track tha
 metronomic beats that correspond to a piece of music. It helps ensure that you can
 synchronize the performances when combining them into the final collaborative virtual video.
 
-This guide shows you how to create
-
-[basic click tracks](#basic-click-track) with no tempo changes as well as more [advanced click tracks](#advanced-click-track) that contain tempo changes.
+This guide shows you how to create [basic click tracks](#basic-click-track) with no tempo changes as well as more [advanced click tracks](#advanced-click-track) that contain tempo changes.
 
 
 ## Basic Click Track
