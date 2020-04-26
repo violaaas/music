@@ -26,7 +26,9 @@ What You Need
 
 **Equipment**
 
-- Everyone needs a computer with access to email and a decent internet connection to upload and download large video files. For reference, a 2.5 minute video from a recent iPhone is approximately 150MB (megabytes). For example, as a performer, to upload 150MB on a 1Mb (megabit) connection at full speed would take 21 minutes.
+- Everyone needs a computer with access to email and a decent internet connection to upload and download large video files. For reference, a 2.5 minute video from a recent iPhone is approximately 50-150MB (megabytes). For example, as a performer, to upload 150MB on a 1Mb (megabit) connection at full speed would take 21 minutes. While that may not seem significant, if you have 30 performers, the 
+Audio/Video Engineer who needs to download 30 videos on a similar speed connection would need to spend more than 10 hours downloading.
+
 - Each performer needs a device that can record audio and video, a separate device to play back the click track, and headphones/earphones to listen to the click track.
 - The Audio/Video Engineer needs a reasonably fast computer, lots of free disk space to install necessary applications and to master the video/audio (approximately 10 times the total size of all the performers' videos), and a decent internet connection.
 
