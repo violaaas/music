@@ -35,7 +35,10 @@ The link to the YouTube video will be shared on Facebook and Instagram through t
 
 ## Download Your Part and Click Track
 
-- Download them from the [ShostakovichWaltz directory](https://github.com/violaaas/music/tree/master/arrangements/ShostakovichWaltz/)
+- Download them from the [ShostakovichWaltz directory](https://github.com/violaaas/music/tree/master/arrangements/ShostakovichWaltz/) or from my site:
+  - [audio only](https://angry-bee.com/music/ShostakovichWaltz/ClickTrack.mp3)
+  - [video with only clicks](https://angry-bee.com/music/ShostakovichWaltz/ClickTrack-clicks-only.mp4)
+  - [video with clicks and notes](https://angry-bee.com/music/ShostakovichWaltz/ClickTrack.mp4)
  
 - Part assignments:
   1. Nina
