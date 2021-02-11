@@ -2,7 +2,7 @@
 
 ## What are we playing?
 
-**Barber String Quartet in B minor, Op. 11  - II. Molto Adagio, arranged for four violas**
+**Shostakovich Suite for Variety Orchestra: Waltz No. 2, arranged for 8 violas**
 
 ## Important Dates
 
