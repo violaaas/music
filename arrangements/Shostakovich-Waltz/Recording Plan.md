@@ -35,7 +35,7 @@ The link to the YouTube video will be shared on Facebook and Instagram through t
 
 ## Download Your Part and Click Track
 
-- Download them from the [ShostakovicWaltz directory](https://github.com/violaaas/music/tree/master/arrangements/ShostakovichWaltz/)
+- Download them from the [ShostakovichWaltz directory](https://github.com/violaaas/music/tree/master/arrangements/ShostakovichWaltz/)
  
 - Part assignments:
   1. Nina
