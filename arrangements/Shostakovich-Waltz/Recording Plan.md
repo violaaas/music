@@ -77,7 +77,7 @@ The link to the YouTube video will be shared on Facebook and Instagram through t
 ### Sound Recommendations
 
 - Sound Recording
-  - Tuning **TBD** by the group
+  - Tuning **440A** by the group
 
   - To prevent sound distortion, make sure to test your recording device to ensure that your loudest notes are not clipping (too loud for the mic to register which causes distortion and crackles). If the sound is clipping, move the device further away from your instrument when recording. For more information on clipping, listen to [this example of clipping](https://youtu.be/9uEtworGLrU?t=124).
 
